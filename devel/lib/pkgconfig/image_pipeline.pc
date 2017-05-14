@@ -1,0 +1,8 @@
+prefix=/home/abagde/ROS/devel
+
+Name: image_pipeline
+Description: Description of image_pipeline
+Version: 0.0.0
+Cflags: -I/home/abagde/ROS/devel/include
+Libs: -L/home/abagde/ROS/devel/lib 
+Requires: rospy std_msgs message_runtime

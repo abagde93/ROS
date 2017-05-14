@@ -1,0 +1,8 @@
+prefix=/home/abagde/ROS/install
+
+Name: image_pipeline
+Description: Description of image_pipeline
+Version: 0.0.0
+Cflags: -I/home/abagde/ROS/install/include
+Libs: -L/home/abagde/ROS/install/lib 
+Requires: rospy std_msgs message_runtime

@@ -1,0 +1,2 @@
+image_pipeline
+-DCATKIN_DEVEL_PREFIX=/home/abagde/ROS/devel -DCMAKE_INSTALL_PREFIX=/home/abagde/ROS/install -G Unix Makefiles

@@ -1,0 +1,3 @@
+<launch>
+  <node name="image_streamer" pkg="image_pipeline" type="image_pub.py" />
+</launch>
